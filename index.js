@@ -1,2 +1,2 @@
 let name = process.argv[2];
-console.log(`good day ${name}, are you well?`);
+console.log(`yo CK, what's up dude.`);
